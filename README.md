@@ -22,3 +22,11 @@ disponibilité/habitant, etc.;
 ● Toutes les infos utiles pour mettre en relief les pays qui semblent être le plus en difficulté, au niveau alimentaire;
 
 ● Finir le travail de Julien.
+
+### Obejctifs projet 4 : 
+
+- Manipuler des DataFrames;
+  
+- Utiliser des librairies spécialisées pour les traitements data;
+  
+- Rédiger et présenter une méthodologie d'exploration et d'analyse des données. 
